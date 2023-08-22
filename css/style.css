@@ -1,0 +1,84 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.exploration {
+  background: url(/assets/bg3.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+.home {
+  background: url(/assets/bg.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+.universe {
+  background: url(/assets/bg2.png) no-repeat center fixed;
+  background-size: cover;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 50px;
+}
+
+img {
+  padding: 0 32px 0 70px;
+}
+
+ul li {
+  display: flex;
+  font-size: 22px;
+  line-height: 40px;
+  gap: 32px;
+}
+
+ul li a {
+  color: #c4c4cc;
+}
+
+ul li a:hover {
+  font-weight: bold;
+  color: #e1e1e6;
+  transition: 0.3s ease-in-out;
+}
+
+h1 {
+  color: #e1e1e6;
+  font-weight: 700;
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 172px;
+}
+
+button {
+  align-items: center;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+  padding: 12px 32px;
+  gap: 8px;
+
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+
+  background: transparent;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+button:hover {
+  background: #ffffff;
+  color: #02799d;
+  font-weight: 700;
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
