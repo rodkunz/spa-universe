@@ -10,7 +10,6 @@
 `Orientação a objetos;`
 `Classes e muito mais.`
 
-[🔗Click to acess](https://rodkunz.github.io/spa-universe/)
 
 # 🔨 Funcionalidades do projeto
 
