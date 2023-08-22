@@ -3,11 +3,12 @@
 ![preview](./github/preview.png)
 
 > Desafio proposto durante o curso explorer, onde foi abordado e utilizado os:
->> Conceitos de SPA;
->> Mapeamento de rotas;
->> Assíncrono e promises;
->> Orientação a objetos;
->> Classes e muito mais.
+
+`Conceitos de SPA;`
+`Mapeamento de rotas;`
+`Assíncrono e promises;` 
+`Orientação a objetos;`
+`Classes e muito mais.`
 
 [🔗Click to acess](https://rodkunz.github.io/spa-universe/)
 
@@ -15,7 +16,7 @@
 
 `Funcionalidade 1`: Clicar no botão ele irá se redirecionar para a page O Universo.
 
-`Funcionalidade 2`: Navegar entre páginas utilizando as navegações acima.
+`Funcionalidade 2`: Navegar entre páginas utilizando os botões acima.
 
 
 ## 🛠 Tecnologias utilizadas
